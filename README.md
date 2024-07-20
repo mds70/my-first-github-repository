@@ -1,1 +1,1 @@
-OK, here is really the readme. THis file was modifed locally.
+This line was modified manually during conflicts resolution
